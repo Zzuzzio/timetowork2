@@ -16,4 +16,6 @@ const Home = ({ id, snackbarError, fetchedState }) => {
 	);
 };
 
+
+
 export default Home;
